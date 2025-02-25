@@ -109,7 +109,7 @@ import axios from "axios";
 
 const API_KEY = "e78549c05c14499084eb97e87151b660";
 const API_URL = "https://api.spoonacular.com/recipes";
-const BACKEND_URL = "https://recipe-app-cqx4.onrender.com/api"; // Updated everywhere
+const BACKEND_URL = "https://fooods.onrender.com/api"; // Updated everywhere
 
 // Register
 export const registerUser = async (formData) => {
