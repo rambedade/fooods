@@ -22,7 +22,7 @@ const Register = () => {
     }
   };
   return (
-    <div className="signup-container">
+    <div className="signup-container bg-red-300">
       <div className="signup-box">
         <h2>Register</h2>
         <form onSubmit={handleSubmit}>
